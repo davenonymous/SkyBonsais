@@ -1,0 +1,16 @@
+[
+{
+  "modid": "skybonsais",
+  "name": "SkyBonsais",
+  "description": "Integrates SkyOrchards with Bonsai Trees",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ['Davenonymous'],
+  "credits": "Davenonymous",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
